@@ -1,0 +1,50 @@
+body{
+    font-family: 'DM Serif Display', serif;
+}
+  
+h1{
+    font-size: 50px;
+  }
+.blue-color{
+    color: rgb(47, 47, 163);
+}
+#line-add{
+    margin-left: 100px;
+    margin-top: 80px;
+    padding-left: 20px;
+    border-left: 7px solid;
+    border-image: linear-gradient(red, red);
+    border-image-slice: 1;
+}
+.margin{
+    margin-left: 100px;
+    margin-top: 80px;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(245, 149, 149), red);
+    padding: 10px 40px;
+    color: white;
+    font-weight: 700;
+    border-radius: 5px;
+    margin-left: 100px;
+    margin-top: 80px;
+}
+.flexible-container{
+    display: flex;
+    margin-bottom: 150px;
+}
+.half-width{
+    width: 40%;
+    padding: 2%;
+}
+.half-width img{
+    width: 90%;
+}
+
+
+
+
+
+
+
