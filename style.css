@@ -1,5 +1,6 @@
 body{
     font-family: 'DM Serif Display', serif;
+  
 }
   
 h1{
@@ -81,4 +82,27 @@ h1{
 .show{
     margin-left: 300px;
 }
+.last{
+   color: cornflowerblue;
+   
+}
+#eva{
+    font-family: 'Galada', cursive;
+    font-size: 40px;
+    
+   
+}
+.color{
+    color: white;
+}
+.abc{
+    text-align: center;
+    background-color: black;
+    padding: 10px;
+}
+footer p{
+    text-align: center;
+    color: white;
+}
+
 
