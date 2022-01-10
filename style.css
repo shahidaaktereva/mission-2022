@@ -39,7 +39,7 @@ h1{
     padding: 2%;
 }
 .half-width img{
-    width: 85%;
+    width: 80%;
 }
 .center{
     text-align: center;
@@ -64,5 +64,14 @@ h1{
     background-color: rgb(235, 235, 169);
     border-radius: 10px;
 }
-
-
+.button{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(245, 149, 149), red);
+    padding: 10px 40px;
+    color: white;
+    font-weight: 700;
+    border-radius: 5px;
+}
+.down{
+    margin-top: 80px;
+}
